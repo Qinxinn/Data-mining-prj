@@ -27,4 +27,4 @@ Run 'bayesian_classification.py' on Jupyter Notebook or Python IDE.
 Install required libraries (pandas and sklearn) before running. 
 
 
-## K Nearest Neighbours 
+#### K Nearest Neighbours 
